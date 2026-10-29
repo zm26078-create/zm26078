@@ -1,4 +1,4 @@
-alert('Hello,Shoji!');
+alert('Hello,Megumi!');
 alert(1+1);
 alert(Math.sprt(1+1));
 alert(2+3);
